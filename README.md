@@ -10,4 +10,4 @@ Brief oveview of the steps followed in the code:
    3.1. Sell that borrowed asset (Short Selling)
 4) Repay everything back
 
-Big Thanks to [Patrick Collins] (https://github.com/PatrickAlphaC) for his valuable content
+Big Thanks to [Patrick Collins](https://github.com/PatrickAlphaC) for his valuable content
